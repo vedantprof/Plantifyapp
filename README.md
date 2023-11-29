@@ -105,4 +105,4 @@ Note that, for now it only supports following crops
 
 ## Contact 📞
 
-#### feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/vedant-shivnekar-581016196)https://www.linkedin.com/in/vedant-shivnekar-581016196/]
+#### feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/vedant-shivnekar-581016196)
