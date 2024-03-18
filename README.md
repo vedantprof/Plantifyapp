@@ -92,15 +92,15 @@ Note that, for now it only supports following crops
 
 - ### Crop recommendation system
 
-![demo](https://media.giphy.com/media/90JbjdAa5nDq3TJh5u/giphy.gif)
+![demo](Link)
 
 - ### Fertilizer suggestion system
 
-![demo](https://media.giphy.com/media/FLftUXMFo8N2bBjAXq/giphy.gif)
+![demo](Link)
 
 
 - ### Disease Detection system
-![demo](https://media.giphy.com/media/NnMwEp2tGZdfnJbyjr/giphy.gif)
+![demo](Link)
 
 
 ## Contact 📞
