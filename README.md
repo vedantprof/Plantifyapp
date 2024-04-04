@@ -88,20 +88,6 @@ Note that, for now it only supports following crops
   python app.py
   ```
 - Open the localhost url provided after running `app.py` and now you can use the project locally in your web browser.
-## DEMO
-
-- ### Crop recommendation system
-
-![demo](Link)
-
-- ### Fertilizer suggestion system
-
-![demo](Link)
-
-
-- ### Disease Detection system
-![demo](Link)
-
 
 ## Contact 📞
 
